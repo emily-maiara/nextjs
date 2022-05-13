@@ -1,0 +1,45 @@
+html,
+body {
+  background-color: #023160;
+  padding: 0;
+  margin: 0;
+  
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.buttonCad {
+  border: 0;
+  width: 100px;
+  height: 49px;
+  display: inline-block;
+  margin: 10px;
+  position: center;
+  cursor: pointer;
+  padding: 1%;
+  border-radius: 10px;
+  background-color: #023160;
+  color: white;
+  
+}
+
+
+.formulario{
+  background-color: #ffff;
+  padding: 0;
+  margin: 0px;
+  min-height: 100vh;
+  padding: 4rem 0;
+  flex: 2;
+  display:block;
+  flex-direction:row;
+  justify-content:center;
+}
+
