@@ -1,6 +1,9 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
+import Head from 'next/head'
+import styles from '../styles/Home.module.css'
+import Link from 'next/link'
 
 function Home() {
   return (
@@ -50,6 +53,9 @@ function Home() {
 }
 
 export default Home;
+
+
+
 
 
 
